@@ -1,0 +1,5 @@
+{
+  "name": "Retro Asteroids",
+  "description": "A classic arcade space shooter where you pilot a ship, blast asteroids, and collect power-ups. Features vector graphics, physics-based movement, and progressive difficulty.",
+  "requestFramePermissions": []
+}
